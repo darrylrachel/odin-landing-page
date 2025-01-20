@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #1f2937;
+  --secondary-color: #f9faf8;
+  --link-color: #e5e7eb;
+  --button-color: #3882f6;
+  
+}
+
+body {
+  font-family: "Roboto", serif;
+  font-size: 16px;
+}
